@@ -8,8 +8,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RoomioSDK",
-            url: "https://cdn.roomio.io/sdk/ios/0.0.14/RoomioSDK.xcframework.zip",
-            checksum: "226a2eae09d07352e9d274c734b704f7d96ddc6136352752774edd4e6c28027e"
+            url: "https://cdn.roomio.io/sdk/ios/0.0.15/RoomioSDK.xcframework.zip",
+            checksum: "4c38fe40c18cbabe1f8f668fb3124ea2ddeb8b3627c859a81a2838d467f20cac"
         ),
     ]
 )
